@@ -30,3 +30,7 @@ $ cd
 
 
 
+=======
+string_5
+string_6
+>>>>>>> bbfe2178fa0c2fa678f96305e9c9e16cbdb771ab
